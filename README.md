@@ -10,14 +10,14 @@ Senac • Embarque Digital
  
 ---
  
-## Linguagens
+## 💻 Linguagens
  
 <div align="center">
  
 | | | |
 |---|---|---|
 | ![HTML](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Mysql](https://img.shields.io/badge/Mysql-003B57?logo=database&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | ![React.js](https://img.shields.io/badge/React.js-003B57?logo=database&logoColor=white)
  
 </div>
  
