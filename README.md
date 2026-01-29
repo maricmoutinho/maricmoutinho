@@ -1,16 +1,16 @@
  
-# 👋 Maria Clara
+# 👋 Maria Clara Moutinho
  
 **Estudante de Análise e Desenvolvimento de Sistemas**  
 Senac • Embarque Digital  
  
-📍 20 anos • 📚 Técnica em Logística  
+ 20 anos • Técnica em Logística  
  
 </div>
  
 ---
  
-## 🚀 Tecnologias
+## Linguagens
  
 <div align="center">
  
@@ -32,7 +32,11 @@ Senac • Embarque Digital
 </a>
 &nbsp;&nbsp;
 <a href="https://www.figma.com/proto/c86T3HoKPmQGXus0kaEsEY">
-  <img src="https://img.shields.io/badge/Portfólio?logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfólio?Color=white"/>
+</a>
+ 
+</div>
+  <img src="https://img.shields.io/badge/Portfólio?Color=white"/>
 </a>
  
 </div>
