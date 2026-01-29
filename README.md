@@ -24,7 +24,7 @@ Senac • Embarque Digital
 ---
  
 ## 🌐 Contato
- 
+
 <div align="center">
  
 <a href="https://www.linkedin.com/in/maria-clara-moutinho-687b481a8">
@@ -32,12 +32,9 @@ Senac • Embarque Digital
 </a>
 &nbsp;&nbsp;
 <a href="https://www.figma.com/proto/c86T3HoKPmQGXus0kaEsEY">
-  <img src="https://img.shields.io/badge/Portfólio?Color=white"/>
-</a>
- 
-</div>
-  <img src="https://img.shields.io/badge/Portfólio?Color=white"/>
+  <img src="https://img.shields.io/badge/Portfólio-Figma-purple?logo=figma&logoColor=white"/>
 </a>
  
 </div>
  
+
